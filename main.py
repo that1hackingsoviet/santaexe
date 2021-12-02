@@ -1,0 +1,7 @@
+basic.show_string("Hello santa!")
+basic.show_string("can you stay please?")
+music.play_melody("D E F D C5 G E B ", 200)
+basic.show_string("christmas")
+basic.show_icon(IconNames.HEART)
+basic.show_string("can we have presants?!?")
+basic.show_string("bye")
